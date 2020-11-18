@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "parse-json": "^5.1.0",
+    "yargs": "^16.1.1"
+  }
+}
